@@ -130,3 +130,9 @@ This [spreadsheet](https://docs.google.com/spreadsheets/d/1EpqBLJqio8ptGlZe9Ywq1
 # License
 
 We license the data, results, and figures as [CC0 1.0](LICENSE_CC0.md) and the source code as BSD 3-Clause.
+
+```python
+from broad_babel.query import broad_to_standard
+broad_to_standard("BRD-A03506276")
+
+```
